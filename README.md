@@ -1,5 +1,6 @@
 <div>
 <h1 style="text-align:center;"> Olá :) Bem vindo/a ao meu perfil!</h1>
+ 📚 Estudando Python e JavaScript / Studying Python and Java Script
 </div>
 
 <div align="center">
