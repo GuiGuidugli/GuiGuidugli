@@ -1,6 +1,6 @@
 <div>
 <h1> Olá :) Bem vindo/a ao meu perfil! Welcome to my profile! I am a Computer Science student, currently heading towards my second year of uni.</h1>
-<p style="text-align:center;"> 📚 Estudando Python e JavaScript / Learning Python and Java Script </p>
+<p style="text-align:center;"> 📚 Estudando Python e JavaScript / Currently learning Python and Java Script </p>
 </div>
 
 <div align="center">
