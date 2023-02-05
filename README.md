@@ -1,5 +1,6 @@
 <div>
-<h1> Olá :) Bem vindo/a ao meu perfil! Welcome to my profile! I am a Computer Science student, currently heading towards my second year of uni.</h1>
+<h1> Olá :) Bem vindo/a ao meu perfil! Sou um estudante de Ciências da Computação, entrando no segundo ano de faculdade. No momento trabalho como analista de dados em uma empresa de telecomunicações.
+(EN)  Welcome to my profile! I am a Computer Science student, currently heading towards my second year of uni.I currently work as a data analyst for a telecommunication company.</h1>
 <p style="text-align:center;"> 📚 Estudando Python e JavaScript / Currently learning Python and Java Script </p>
 </div>
 
