@@ -2,7 +2,7 @@
 <h1> Olá :) Bem vindo/a ao meu perfil! Sou estudante de Ciências da Computação, entrando no segundo ano de faculdade. No momento trabalho como analista de dados em uma empresa de telecomunicações. <br>
 <br>  
 (EN) Welcome to my profile! I am a Computer Science student, currently heading towards my second year of uni.I currently work as a data analyst for a telecommunication company.</h1>
-<p style="text-align:center;"> 📚 Estudando Python e JavaScript / Currently learning Python and Java Script </p>
+<p style="text-align:center;"> 📚 Estudando Python e Java / Currently learning Python and Java </p>
 </div>
 
 <div align="center">
@@ -16,8 +16,8 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>  
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
   
 ##
