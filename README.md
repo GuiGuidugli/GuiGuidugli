@@ -2,7 +2,7 @@
 <h1> Olá :) Bem vindo/a ao meu perfil! Sou estudante de Ciências da Computação, no terceiro ano de faculdade. No momento trabalho com análise de dados em uma empresa de telecomunicações. <br>
 <br>  
 (EN) Welcome to my profile! I am a Computer Science student, currently on my third year of uni. I currently work with data analysis for a telecommunications company.</h1>
-<p style="text-align:center;"> 📚 Estudando C++ e Java / Currently learning C++ and Java </p>
+<p style="text-align:center;"> 📚 Estudando Python / Currently learning Python </p>
 </div>
 
 <div align="center">
