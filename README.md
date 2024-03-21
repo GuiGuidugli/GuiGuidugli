@@ -2,7 +2,7 @@
 <h1> Olá :) Bem vindo/a ao meu perfil! Sou estudante de Ciências da Computação, no terceiro ano de faculdade. No momento trabalho com análise de dados em uma empresa de telecomunicações. <br>
 <br>  
 (EN) Welcome to my profile! I am a Computer Science student, currently on my third year of uni. I currently work with data analysis for a telecommunications company.</h1>
-<p style="text-align:center;"> 📚 Estudando Kotlin / Currently learning Kotlin  <img height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /> </p>
+<p style="text-align:center;"> 📚 Estudando Kotlin / Currently learning Kotlin </p>
 </div>
 
 <div align="center">
@@ -13,10 +13,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiGuidugli&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img align="center" height="30" width="40" alt="html5 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" height="30" width="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" height="30" width="40" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" height="30" width="40" alt="kotlin "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 </div>  
 
 
