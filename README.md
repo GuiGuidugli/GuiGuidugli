@@ -1,7 +1,7 @@
 <div>
 <h2> Olá :) Bem vindo/a ao meu perfil! Sou estudante de Ciências da Computação, no terceiro ano de faculdade. No momento trabalho com análise de dados em uma empresa de telecomunicações.<br>
 <br>
-(EN) Welcome to my profile! I am a Computer Science student, currently on my third year of uni. I currently work with data analysis for a telecommunications company.</h2>
+Welcome to my profile! I am a Computer Science student, currently on my third year of uni. I currently work with data analysis for a telecommunications company.</h2>
 </div>
 
 <p style="text-align:center;"> 📚 Estudando Kotlin e desenvolvimento de games em Unity / Currently learning Kotlin and game development on Unity.</p>
