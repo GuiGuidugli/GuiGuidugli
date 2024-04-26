@@ -30,7 +30,4 @@ Welcome to my profile! I am a Computer Science student, currently on my third ye
   <a href="https://www.twitch.tv/guilhermeguidugli" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:guilhermegb2012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-guidugli-borges-883890153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![snake gif](https://github.com/GuiGuidugli/GuiGuidugli/blob/output/github-contribution-grid-snake.svg)
-  
 </div>  
