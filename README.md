@@ -4,7 +4,7 @@
 Welcome to my profile! I am a Computer Science student, currently on my third year of uni. I currently work with data analysis for a telecommunications company.</h2>
 </div>
 
-<p style="text-align:center;"> 📚 Estudando Kotlin e desenvolvimento de games em Unity / Currently learning Kotlin and game development on Unity.</p>
+<p style="text-align:center;"> 📚 Estudando desenvolvimento de games em Godot / Currently learning game development on Godot.</p>
 
 <br>
 
