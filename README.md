@@ -19,7 +19,6 @@ Welcome to my profile! I am a Computer Science student, currently on my third ye
   <img align="center" height="30" width="40" alt="html5 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" height="30" width="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" height="30" width="40" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> 
-  <img align="center" height="30" width="40" alt="kotlin "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
   <img align="center" height="30" width="40" alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>      
 </div>  
 
