@@ -4,7 +4,7 @@
 Welcome to my profile! I am a Computer Science student, currently on my third year of uni. I currently work with data analysis for a telecommunications company.</h2>
 </div>
 
-<p style="text-align:center;"> 📚 Desenvolvendo um aplicativo em Node.js e React Native. / Currently developing an app using Node.js and React Native.</p>
+<p style="text-align:center;"> Desenvolvendo um aplicativo em Node.js e React Native. / Currently developing an app using Node.js and React Native.</p>
 
 <br>
 
