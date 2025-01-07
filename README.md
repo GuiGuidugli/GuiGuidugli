@@ -1,7 +1,7 @@
 <div>
-<h2> Olá :) Bem vindo/a ao meu perfil! Sou estudante de Ciências da Computação, no terceiro ano de faculdade. No momento trabalho com análise de dados em uma empresa de telecomunicações.<br>
+<h2> Olá :) Bem vindo/a ao meu perfil! Sou estudante de Ciências da Computação, no quarto ano de faculdade. No momento trabalho com análise de dados em uma empresa de telecomunicações.<br>
 <br>
-Welcome to my profile! I am a Computer Science student, currently on my third year of uni. I currently work with data analysis for a telecommunications company.</h2>
+Welcome to my profile! I am a Computer Science student, currently on my fourth year of uni. I currently work with data analysis for a telecommunications company.</h2>
 </div>
 
 <p style="text-align:center;"> Desenvolvendo um aplicativo em Node.js e React Native. / Currently developing an app using Node.js and React Native.</p>
