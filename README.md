@@ -19,13 +19,13 @@ Welcome to my profile! I am a Computer Science student, currently on my fourth y
   <img align="center" height="30" width="40" alt="html5 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" height="30" width="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" height="30" width="40" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> 
-  <img align="center" height="30" width="40" alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>      
+  <img align="center" height="30" width="40" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>      
 </div>  
 
 <div> 
   <h2>Contatos/Contact me:</h2>
   <a href="https://www.youtube.com/channel/UCV1aK2Q98yy8Mdry2Gyeoqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/guilhermeguidugli" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guilhermegb2012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-guidugli-borges-883890153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:guilhermeguidugli@pm.me" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilhermeguidugli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
