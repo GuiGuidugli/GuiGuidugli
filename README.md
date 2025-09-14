@@ -1,7 +1,7 @@
 <div>
-<h2> Olá :) Sou estudante de Ciências da Computação, no quarto ano de faculdade. No momento trabalho com análise de dados em uma empresa de telecomunicações.<br>
+<h2> Olá :) Sou estudante de Ciências da Computação, no quarto ano de faculdade. No momento trabalho com análise e integração de dados.<br>
 <br>
-Hello! I am a Computer Science student, currently on my fourth year of uni. I currently work with data analysis for a telecommunications company.</h2>
+Hello! I am a Computer Science student, currently on my fourth year of uni. I currently work with data analysis and integration.</h2>
 </div>
 
 <br>
