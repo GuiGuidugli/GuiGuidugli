@@ -1,7 +1,7 @@
 <div>
-<h2> Estudante de Ciências da Computação, no quarto ano de faculdade e entusiasta da aviação. No momento trabalho com análise e integração de dados.<br>
+<h2> Estudante do quarto ano de Ciências da Computação e entusiasta da aviação. No momento trabalho com análise e integração de dados.<br>
 <br>
-Computer Science student, currently on my fourth year of uni, and aviation entusiast. I currently work with data analysis and integration.</h2>
+Computer Science student, currently on my fourth and last year of graduation, and aviation entusiast. I currently work with data analysis and integration.</h2>
 </div>
 
 <br>
