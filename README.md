@@ -1,7 +1,7 @@
 <div>
-<h2> Estudante do quarto ano de Ciências da Computação e entusiasta da aviação. No momento trabalho com análise e integração de dados.<br>
+<h2> Estudante do quarto ano de Ciências da Computação e entusiasta da aviação. Trabalho como líder do departamento de integração de sistemas.<br>
 <br>
-Computer Science student, currently on my fourth and last year of graduation, and aviation entusiast. I currently work with data analysis and integration.</h2>
+Computer Science student, currently on my fourth and last year of graduation, and aviation entusiast. I currently work as the systems integration team leader.</h2>
 </div>
 
 <br>
@@ -14,9 +14,7 @@ Computer Science student, currently on my fourth and last year of graduation, an
 
 <div style="display: inline_block"><br>
   <h2>Linguagens e ferramentas/Languages and tools:</h2>
-  <img align="center" height="30" width="40" alt="html5 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" height="30" width="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" height="30" width="40" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" height="30" width="40" alt="c#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
   <img align="center" height="30" width="40" alt="sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
   <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="center" height="30" width="40" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
