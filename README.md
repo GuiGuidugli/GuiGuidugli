@@ -1,8 +1,6 @@
 <div>
 <h2> "A computer can never be held accountable, therefore a computer must never make a management decision." - IBM Training Manual, 1979  </h2>
 </div>
-<br>
-<br>
 <div align="center">
   <a href="https://github.com/GuiGuidugli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiGuidugli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
