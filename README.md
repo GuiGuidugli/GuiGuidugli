@@ -3,11 +3,11 @@
 <div>
   <h3 align="left">Contatos/Contact me:</h3>
   <p align="left">
+    <a href = "mailto:guilhermeguidugli@pm.me" target="_blank"><img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+    <br>
+    <br>
     <a href="https://linkedin.com/in/guilhermeguidugli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermeguidugli" height="30" width="40" /></a>
     <a href="https://kaggle.com/guilhermeguidugli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="guilhermeguidugli" height="30" width="40" /></a>
-    <br>
-    <br>
-    <a href = "mailto:guilhermeguidugli@pm.me" target="_blank"><img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   </p>
 </div>
 
