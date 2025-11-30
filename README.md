@@ -9,8 +9,9 @@
 <div style="display: inline_block">
   <h2>Linguagens e ferramentas/Languages and tools:</h2>
   <img align="center" height="30" width="40" alt="c#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+  <img align="center" height="30" width="40" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="center" height="30" width="40" alt="sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-  <img align="center" height="30" width="40" alt="vb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
+  <img align="center" height="30" width="40" alt="vb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg"/>
   <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="center" height="30" width="40" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
   <img align="center" height="30" width="40" alt="azure_devops" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"/>
