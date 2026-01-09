@@ -1,7 +1,5 @@
 <h3 align="center">"A computer can never be held accountable, therefore a computer must never make a management decision." - IBM Training Manual, 1979</h3>
 
-![Top Languages](github-readme-stats.vercel.app)
-
 <div>
   <h3 align="left">Contatos/Contact me:</h3>
   <p align="left">
