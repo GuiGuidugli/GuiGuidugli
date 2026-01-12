@@ -12,7 +12,7 @@
 </div>
 
 <div>
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">Languages and tools/Linguagens e ferramentas:</h3>
   <p align="left"> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
